@@ -11,4 +11,4 @@ The SOP Library uses metadata to make documents easier to search, filter, manage
 | Difficulty | Supports onboarding and training navigation |
 | Review Date | Tracks when the document should be reviewed |
 | Process Owner | Identifies who maintains the document |
-| Business Impact | Helps prioritize important processes and updates |
+| Business Impact | Helps prioritize important processes and updates | 
